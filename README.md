@@ -1,2 +1,6 @@
 # Project-Zoomie
 3D Printer Files for Project Zoomie Open Sourced.
+This repository supports my Youtube posts on Project Zoomie. 
+Please ensure you are complying with the GNU licence when sharing the files.
+Wile1One is my internet handle. I would appreciate NOT being hacked...  its a pain...  
+I prefer people don't contact me other than by the Youtube articles...  
